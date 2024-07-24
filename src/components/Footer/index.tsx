@@ -7,7 +7,7 @@ export default function Footer() {
 		<footer>
 			<div className='footer-section'>
 				<img src='/android-chrome-192x192.png' alt='App Logo' className='logo' />
-				<p>Darwin</p>
+				<p>Code-Snipct</p>
 			</div>
 			<div className='footer-section'>
 				<a
