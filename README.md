@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://darwin-app.vercel.app/">
+  <a href="https://code-snpict.netlify.app/">
     <img src="public/android-chrome-512x512.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,11 +12,11 @@
     Awesome gifs and images of your code
     <br />
     <br />
-    <a href="https://darwin-app.vercel.app/">View Demo</a>
+    <a href="https://code-snpict.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/AyushKumar1810/code-snipct/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lucky-chap/code-snipct/issues">Request Feature</a>
+    <a href="https://github.com/AyushKumar1810/code-snipct/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple steps.
   ```
 * Install dependencies (have nodejs installed)
   ```sh
-  cd darwin
+  cd code-snipct
   yarn install # or npm install
   ```
 * Run
